@@ -11,9 +11,9 @@ double average ( double mark [], int size)
 
     for (int i = 0; i < size; i++)
     {
-        sum += mark[i];
+        sum += mark[i]; //cộng từng phần tử vào tổng
     }
-    return sum / size;
+    return sum / size;    //TB = tổng // số lượng
 }
 int main()
 {
