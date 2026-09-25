@@ -1,2 +1,2 @@
-# BTVN 
-## Bài 1
+# Nice
+lmao
