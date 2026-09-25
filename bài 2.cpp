@@ -4,9 +4,9 @@ using namespace std;
 
 int fibonacci (int n)
 {
-    if (n == 1)//điều kiện thứ nhất
+    if (n == 1)    //điều kiện thứ nhất
         return 0;
-    if (n == 2)//điều kiện thứ hai
+    if (n == 2)    //điều kiện thứ hai
         return 1;
     return fibonacci(n - 1) + fibonacci(n - 2);
 }
